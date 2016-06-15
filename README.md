@@ -5,7 +5,7 @@ Analysis of FAIRE-seq, MNase-seq, etc.
 RNA-seq libraries were acquired for mature cotton leaves under Long day (LD: 7am-9pm) and short day (SD:7am-5pm) conditions and sampled at both dawn and dusk. From four sampling stages LD7, LD9, SD7 and SD5, which one should we select for nucleosone occupancy analysis? Is these a better choice rather than picking anyone?
 
     # access to mapping results, get bam files started with LD7, LD9, SD7 and SD5, save into "matureLeaf.filenames.txt"
-    cd ~/jfw-lab/Projects/Duplicated_Pathways/DupNetMap/
+    ls ~/jfw-lab/Projects/Duplicated_Pathways/DupNetMap/
     # get read count
     bash htseqCount.sh
 
