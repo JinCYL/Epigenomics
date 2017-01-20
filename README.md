@@ -13,3 +13,4 @@ Total read counts were extracted by [htseqCount.sh](https://github.com/huguanjin
 
 Basically, the expression differences between sunrise and sunset dominate other varations, including LD vs SD and among genomes. Only 6.3% of DE genes were found between LD7 and SD7, and 11.9% were found between LD9 and SD5. I ended up using SD5 for MNase-seq analysis, (shamefully) because it is just easier to collect at that time .... 
 
+## Differential gene expression analysis for SD5 condition only
